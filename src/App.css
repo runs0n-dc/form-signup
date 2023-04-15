@@ -1,0 +1,31 @@
+*{
+  background-color: black;
+  color: white;
+ }
+ .component{
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+ }
+ .App{
+   box-sizing: border-box;
+   padding: 20vh 30vw;
+ }
+ input{
+   height: 30px;
+   border: none;
+   border-bottom: 1px solid;
+   outline: none;
+ }
+ button{
+   background-color: aliceblue;
+   color: black;
+   height: 30px;
+   width: 100px;
+ }
+ .green{
+   color: green;
+ }
+ .red{
+   color: red;
+ }
